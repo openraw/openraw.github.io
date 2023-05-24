@@ -1,3 +1,4 @@
+![Logo](/logo.png)
 # Welcome to the OpenRAW Forum!
 
 Here we discuss the open standard for storing RAW data. 
